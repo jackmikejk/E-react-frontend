@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: rgb(3, 1, 1);
+}
+.div{
+  display: flex;
+  flex-direction: column;
+  width: 20vw;
+  margin-left: 40%;
+}
+.button{
+  background-color: black;
+  color: aliceblue;
+  margin-top: 10px;
+}
+.input{
+  margin-top: 10px;
+}
+
+
+
+.page-title {
+  font-size: 44px;
+  margin: 20px 0; /* Add spacing above the title */
+  padding: 25px 50px 75px 100px;
+}
